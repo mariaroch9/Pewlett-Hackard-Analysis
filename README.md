@@ -15,6 +15,8 @@ The number of upcoming retirements will leave thousands of job openings. What wo
 `
 Retirement_titles
 `
+/Users/Rochelle/Desktop/Pewlett_Hackard_Analysis/Retirement_titles.png
+
 emp_no    first_name    last_name    title    from_date    to_date
 10001    Georgi    Facello    Senior Engineer    1986-06-26    9999-01-01
 10004    Chirstian    Koblick    Engineer    1986-12-01    1995-12-01
@@ -46,6 +48,7 @@ emp_no    first_name    last_name    title    from_date    to_date
 `
 Unique_titles
 `
+/Users/Rochelle/Desktop/Pewlett_Hackard_Analysis/unique_titles .numbers
 emp_no    first_name    last_name    title
 10001    Georgi    Facello    Senior Engineer
 10004    Chirstian    Koblick    Senior Engineer
@@ -70,6 +73,7 @@ emp_no    first_name    last_name    title
 `
 Retiring_titles
 `
+/Users/Rochelle/Desktop/Pewlett_Hackard_Analysis/retiring_titles.numbers
 count    title
 25916    Senior Engineer
 24926    Senior Staff
@@ -85,6 +89,7 @@ count    title
 `
 Mentorship_Eligibility Table
 `
+/Users/Rochelle/Desktop/Pewlett_Hackard_Analysis/Mentorship_eligibility.png
 emp_no    first_name    last_name    birth_date    from_date    to_date    title
 10095    Hilari    Morton    1965-01-03    1994-03-10    9999-01-01    Staff
 10122    Ohad    Esposito    1965-01-19    1998-08-06    9999-01-01    Technique Leader
